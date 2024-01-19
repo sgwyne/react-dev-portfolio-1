@@ -25,7 +25,7 @@ const ContactForm = () => {
         <div>
           <p className="contact-links">
             <MdEmail />
-            randiltharusha72@gmail.com
+            Benhamid Anggoto2@gmail.com
           </p>
           <br />
           <p className="contact-links">
